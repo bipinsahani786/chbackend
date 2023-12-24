@@ -1,2 +1,0 @@
-# chbackend
-a backend project
